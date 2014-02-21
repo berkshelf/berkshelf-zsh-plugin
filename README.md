@@ -35,9 +35,4 @@
 
 ## Additional information
 
-
-
-## Contact
-Shengyou Fan (If you like it, please endorse me on coderwall) [![endorse](https://api.coderwall.com/shengyou/endorsecount.png)](https://coderwall.com/shengyou)
-
-Any questions, feel free to [contact me](http://twitter.com/shengyou).
+This plugin is currently maintain by [Shengyou Fan](http://twitter.com/shengyou). If you have any questions, feel free to contact me.
