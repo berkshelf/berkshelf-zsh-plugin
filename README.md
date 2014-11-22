@@ -40,4 +40,4 @@ Use [Antigen's](https://github.com/zsh-users/antigen) bundle command - add `anti
 
 ## Additional information
 
-This plugin is currently maintain by [Shengyou Fan](http://twitter.com/shengyou). If you have any questions, feel free to contact me.
+This plugin is currently maintained by [Shengyou Fan](http://twitter.com/shengyou). If you have any questions, feel free to contact me.
