@@ -1,11 +1,16 @@
 # berkshelf-zsh-plugin
 
 `berkshelf-zsh-plugin` is a zsh plugin for
-[Berkshelf](http://berkshelf.com/). This plugin can be install into oh-my-zsh [custom plugin](https://github.com/robbyrussell/oh-my-zsh#customization) folder.
+[Berkshelf](http://berkshelf.com/). This plugin can be installed into your oh-my-zsh [custom plugin](https://github.com/robbyrussell/oh-my-zsh#customization) folder.
 
 ![Screenshot1](https://raw.github.com/shengyou/berkshelf-zsh-plugin/master/images/berkshelf.gif)
 
-## Installation for oh-my-zsh
+## Installation
+
+### Installation for antigen users
+Use [Antigen's](https://github.com/zsh-users/antigen) bundle command - add `antigen bundle berkshelf/berkshelf-zsh-plugin` to your `.zshrc` along with your other antigen plugins
+
+### Installation for oh-my-zsh users
 
 1. In the command line, change to `oh-my-zsh` plugins directory:
 
@@ -31,8 +36,8 @@
 
 ## TODO
 
-* Make optioins completion.
+* Make options completion.
 
 ## Additional information
 
-This plugin is currently maintain by [Shengyou Fan](http://twitter.com/shengyou). If you have any questions, feel free to contact me.
+This plugin is currently maintained by [Shengyou Fan](http://twitter.com/shengyou). If you have any questions, feel free to contact me.
