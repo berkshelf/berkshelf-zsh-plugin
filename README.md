@@ -21,7 +21,7 @@ Use [Antigen's](https://github.com/zsh-users/antigen) bundle command - add `anti
 2. Clone the repository into a new directory called `berkshelf`:
 
     ```console
-    git clone https://github.com/shengyou/berkshelf-zsh-plugin.git berkshelf
+    git clone https://github.com/berkshelf/berkshelf-zsh-plugin.git berkshelf
     ```
 
 3. Include `berkshelf` plugin to your .zshrc file along with other plugins:
